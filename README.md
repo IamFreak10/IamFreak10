@@ -49,9 +49,7 @@ I'm **Mahfuj Abdullah**, a passionate 💻 Full Stack Developer from **Banglades
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-![Mahfuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfujfreak&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujfreak&layout=compact&theme=gruvbox)
-
+![IamFreak10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamFreak10&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 <!-- Connect With Me -->
