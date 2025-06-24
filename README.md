@@ -1,3 +1,4 @@
+
 <!-- Banner GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Mahfuj Coding Banner" />
@@ -6,13 +7,13 @@
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-I'm **Mahfuj Abdullah**, a passionate 💻 Full Stack Developer from **Bangladesh**, currently studying **BSc in Computer Science & Engineering** at the University of Barishal. I enjoy building efficient, scalable, and beautiful web applications.
+I’m **Mahfuj Abdullah**, a dedicated Full Stack Developer from **Bangladesh**, currently pursuing a **BSc in Computer Science & Engineering** at the University of Barishal. I have a passion for building efficient, scalable, and elegant web applications.
 
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **System Design**
-- 🧠 Exploring the intersection of **algorithms** and **real-world applications**
+- 🌱 Currently deepening my expertise in **Next.js**, **TypeScript**, and **System Design**
+- 🧠 Enthusiastically exploring the intersection of **algorithms** and their **real-world applications**
 - 🛠️ Tech Stack: MERN, REST APIs, Tailwind CSS, JWT, Docker (basic), Git
-- 🔒 Strong believer in **clean code**, **reusable components**, and **secure auth**
-- 📫 Reach me: [Email](mailto:mahfuj.cse10@gmail.com) | [LinkedIn](https://linkedin.com/in/mahfujabdullah)
+- 🔒 Advocate for **clean code**, **reusable components**, and **secure authentication**
+- 📫 Feel free to connect: [Email](mailto:mahfuj.cse10@gmail.com) | [LinkedIn](https://linkedin.com/in/mahfujabdullah)
 
 ---
 
@@ -35,23 +36,24 @@ I'm **Mahfuj Abdullah**, a passionate 💻 Full Stack Developer from **Banglades
 ## 🚀 Featured Projects
 
 ### 🧠 [StudySync](https://github.com/mahfujfreak/studysync-client)
-> A full-stack group study web application for assignment collaboration, role-based dashboards, JWT auth, and live feedback.
-- Tech: React, Node, Express, MongoDB, Framer Motion, JWT
+> A full-stack group study platform enabling assignment collaboration, role-based dashboards, JWT authentication, and live feedback.
+- Technologies: React, Node.js, Express, MongoDB, Framer Motion, JWT
 
 ### 🌐 [AltasNet ISP Platform](https://github.com/mahfujfreak/altasnet-client)
-> A custom-designed Internet Service Provider dashboard with real-time package tracking, dynamic profiles, and secure routes.
+> A custom Internet Service Provider dashboard featuring real-time package tracking, dynamic user profiles, and secure, role-based routes.
 
 ### 🌱 [The ChatroLeague Chase (C Project)](https://github.com/mahfujfreak/chatroleague-chase)
-> Graph-based algorithm simulation to track targets via shortest path and AI-guided decision-making.
+> A graph-based algorithm simulation to track targets using shortest path calculations and AI-guided decision-making.
 
 ---
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-![IamFreak10's Stats](https://github-readme-stats.vercel.app/api?username=IamFreak10&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![IamFreak10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamFreak10&theme=onedark&hide_border=true)
-![IamFreak10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamFreak10&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![Mahfuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamFreak10&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![Mahfuj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamFreak10&theme=onedark&hide_border=true)
+![Mahfuj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamFreak10&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 <!-- Connect With Me -->
@@ -59,11 +61,11 @@ I'm **Mahfuj Abdullah**, a passionate 💻 Full Stack Developer from **Banglades
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfujabdullah)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahfuj.cse10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 ---
 
 <!-- Typing SVG Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0E9F6E&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Keep+building%2C+keep+learning!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0E9F6E&center=true&width=435&lines=Thank+you+for+visiting+my+profile!;Keep+building,+keep+learning!+🚀" alt="Typing SVG" />
 </p>
