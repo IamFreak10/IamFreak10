@@ -1,5 +1,7 @@
-<!-- Banner -->
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0E9F6E&height=230&section=header&text=Hi%20there,%20I'm%20Mahfuj!%20👋&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Lifelong%20Learner%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=60)
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Mahfuj Coding Banner" />
+</p>
 
 <!-- About Me -->
 ## 🙋‍♂️ About Me
@@ -61,7 +63,7 @@ I'm **Mahfuj Abdullah**, a passionate 💻 Full Stack Developer from **Banglades
 
 ---
 
-<!-- Footer -->
+<!-- Typing SVG Footer -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0E9F6E&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Keep+building%2C+keep+learning!+🚀" alt="Typing SVG" />
 </p>
