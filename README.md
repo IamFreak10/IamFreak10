@@ -78,30 +78,9 @@ My journey began with a fascination for the web, and it’s grown into a deep co
 
 ---
 
-<!-- Pinned Projects -->
-## 📌 Featured Projects
 
-### 🧠 [StudySync](https://github.com/mahfujfreak/studysync-client)
-> A collaborative group-study platform with real-time assignment tracking, feedback, and role-based dashboards.  
-🛠 **Tech Stack**: React, Node.js, Express.js, MongoDB, Tailwind, Framer Motion  
-🌐 [Live Site](https://studysync.netlify.app)  
-📘 [Client Repo](https://github.com/mahfujfreak/studysync-client)
 
----
 
-### 🌐 [AltasNet - ISP Management Platform](https://github.com/mahfujfreak/altasnet-client)
-> A feature-rich ISP dashboard for managing user subscriptions, package tracking, and secure access.  
-🛠 **Tech Stack**: React, Express.js, MongoDB, DaisyUI, JWT  
-🌐 [Live Site](https://altasnet.vercel.app)  
-📘 [Client Repo](https://github.com/mahfujfreak/altasnet-client)
-
----
-
-### 🧭 [ChatroLeague Chase (C Project)](https://github.com/mahfujfreak/chatroleague-chase)
-> A graph-based simulation game where an agent uses shortest-path algorithms to track a target.  
-🧮 **Language**: C  
-📌 Focus: Graph traversal (BFS, DFS), Dijkstra's Algorithm  
-📘 [Repo Link](https://github.com/mahfujfreak/chatroleague-chase)
 
 ---
 
