@@ -4,8 +4,9 @@
 </p>
 
 <!-- Name & Title -->
-
-<h3 align="center">🚀 Front-End Developer | Aspiring Full Stack Engineer | CSE Undergraduate</h3>
+<h1 align="center">🌟 Mahfuj Abdullah</h1>
+<h3 align="center">Creative Problem Solver | MERN Stack Craftsman | Future-Ready Developer</h3>
+<p align="center"><i>"Coding the web, one pixel and endpoint at a time."</i></p>
 
 ---
 
