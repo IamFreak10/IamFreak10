@@ -98,7 +98,4 @@ My journey began with a fascination for the web, and it’s grown into a deep co
 ---
 
 <!-- Footer Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0E9F6E&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Keep+building,+keep+learning!+🚀" alt="Typing Footer" />
-</p>
 
