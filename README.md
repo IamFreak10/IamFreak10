@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/hvhjFggS/Chat-GPT-Image-Jun-25-2025-03-45-52-PM.png" width="100%" height="200%"  alt="Mahfuj Coding Banner" />
+  <img src="https://i.postimg.cc/nhfDmjpB/Chat-GPT-Image-Jun-25-2025-04-00-49-PM.png" width="100%" height="200%"  alt="Mahfuj Coding Banner" />
 </p>
 
 <!-- Name & Title -->
