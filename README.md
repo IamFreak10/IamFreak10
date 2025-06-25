@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Mahfuj Coding Banner" />
+  <img src="https://i.postimg.cc/hvhjFggS/Chat-GPT-Image-Jun-25-2025-03-45-52-PM.png" width="100%" height="50% heig alt="Mahfuj Coding Banner" />
 </p>
 
 <!-- Name & Title -->
-<h1 align="center">Hi there, I'm <span style="color:#0E9F6E;">Mahfuj Abdullah</span> 👋</h1>
+
 <h3 align="center">🚀 Front-End Developer | Aspiring Full Stack Engineer | CSE Undergraduate</h3>
 
 ---
