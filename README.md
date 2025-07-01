@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/nhfDmjpB/Chat-GPT-Image-Jun-25-2025-04-00-49-PM.png" width="100%" height="200%"  alt="Mahfuj Coding Banner" />
+  <img src="https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif" alt="Monkey Developer" width="600" />
 </p>
+
 
 <!-- Name & Title -->
 <h1 align="center">🌟 Mahfuj Abdullah</h1>
