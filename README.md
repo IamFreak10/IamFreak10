@@ -6,7 +6,7 @@
 
 <!-- Name & Title -->
 <h1 align="center">🌟 Mahfuj Abdullah</h1>
-<h3 align="center">Creative Problem Solver | MERN Stack Craftsman | Future-Ready Developer</h3>
+<h3 align="center"> MERN Stack Craftsman | Future-Ready Developer</h3>
 <p align="center"><i>"Coding the web, one pixel and endpoint at a time."</i></p>
 
 ---
