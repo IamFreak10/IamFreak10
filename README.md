@@ -95,9 +95,10 @@ My journey began with a fascination for the web, and it’s grown into a deep co
   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.facebook.com/Onnoncringe.IamFreak/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/outta_no_where/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  
 </p>
-🔗 Visit my competitive programming profile:  
-[Codeforces - IamFreak](https://codeforces.com/profile/IamFreak)
+[![Codeforces](https://img.shields.io/badge/Codeforces-IamFreak-orange)](https://codeforces.com/profile/IamFreak)
+
 ---
 
 <!-- Footer Typing Effect -->
