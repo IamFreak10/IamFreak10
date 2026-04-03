@@ -13,18 +13,18 @@
 
 ---
 
-## 🦾 **Neural Core & Professional Brief**
+##  ** Professional Brief**
 
 I am a **Computer Science & Engineering** student at the **University of Barishal**, architecting high-fidelity digital ecosystems. My development workflow is a precision-tuned fusion of **Windows 11** performance and **Ubuntu / Linux Lite** flexibility.
 
-* **🏙️ Neural Node:** Barishal, Bangladesh
-* **🧠 Core Focus:** Full-Stack Architecture & Distributed Systems
+* **🏙️ From:** Barishal, Bangladesh
+* **🧠  Focus:** Full-Stack Architecture & Distributed Systems
 * **📡 Research Interest:** Aerodynamics & Technical Simulations
 * **💻 Protocol:** Hybrid OS Development (Dual-Boot Optimization)
 
 ---
 
-## 🌌 **Technological Arsenal (Categorized)**
+##  **Technologis**
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I am a **Computer Science & Engineering** student at the **University of Barisha
 
 ---
 
-## 🦾 **Neural Activity & Evolution**
+##  ** Activity & Evolution**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IamFreak10/IamFreak10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -65,7 +65,7 @@ I am a **Computer Science & Engineering** student at the **University of Barisha
 
 ---
 
-## 📊 **Performance Analytics Matrix**
+## **Performance Analytics Matrix**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IamFreak10&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&border_radius=20" width="48%" />
