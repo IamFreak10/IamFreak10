@@ -2,12 +2,6 @@
 
 <div align="center">
 
-  <h1 align="center">
-    <span style="font-size: 34px; font-weight: 900; color: #00d4ff; letter-spacing: 2.5px;">
-      ⚡ MAHFUJ ABDULLAH
-    </span>
-  </h1>
-
   <p align="center">
     <b>Software Engineer &bull; Systems & Full-Stack &bull; CSE @ University of Barishal</b>
   </p>
