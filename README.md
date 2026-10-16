@@ -2,9 +2,7 @@
 
 <div align="center">
 
-  <p align="center">
-    <b>Software Engineer &bull; Systems & Full-Stack &bull; CSE @ University of Barishal</b>
-  </p>
+
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2800&pause=1100&color=00D4FF&center=true&vCenter=true&multiline=true&width=860&height=80&lines=ARCHITECTING+HIGH-PERFORMANCE+SYSTEMS+%26+APIS;TAURI+V2+%E2%80%A2+RUST+%E2%80%A2+REACT+19+%E2%80%A2+NODE.JS+%E2%80%A2+DOCKER;BUILDING+DESKTOP-NATIVE+TOOLS+%26+LOCAL+CLOUD+INFRASTRUCTURE" alt="Cyber Tech Typing" />
 
